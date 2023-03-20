@@ -67,7 +67,7 @@ body {
 }
 
 .hero {
-    background: url(/jpg/test/hero.jpg) rgba(0, 0, 0, 0.7);
+    background: url(jpg/hero.jpg) rgba(0, 0, 0, 0.7);
     background-size: cover; 
     background-repeat: no-repeat;
     background-blend-mode: multiply;
